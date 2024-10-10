@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="My Suit">
+    <test name="My Test 1">
+        <parameter name="mesaj" value="100JDJ"></parameter>
+
+        <classes>
+            <class name="PACKAGE_NAME.US_406_"></class>
+        </classes>
+    </test>
+
+</suite>
